@@ -1,0 +1,9 @@
+#complete email verification
+
+#complete logger
+
+#do check on how many conversion or upload done already to ensure it has
+not exceed the plan limit before doing conversion and upload.
+
+#ensure the new s3 work flow works for all uploads and conversions
+#change upload implementation to the for file uploads
